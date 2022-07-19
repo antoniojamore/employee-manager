@@ -1,5 +1,5 @@
 # Employee Manager
-A text-based program to demonstrate searches and sorts using arrays in Java. Default employee names are generated from a name generator website. Employee titles and salaries are fictional.  
+A text-based program that lists employees in a company and allows the user to read, update, add, and remove from the array. Demonstrates searches, sorts, and usage of arrays. Default employee names are generated from a name generator website. Employee titles and salaries are fictional.  
 
 ## Menu Options
 
